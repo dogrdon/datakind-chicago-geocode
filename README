@@ -1,0 +1,5 @@
+Geocode addresses to create lat longs in a large .csv without having to go through a browser or GIS software like ArcGIS.
+
+	easy_install geopy
+
+Thanks to Joe Germuska.
